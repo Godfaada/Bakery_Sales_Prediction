@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-https://github.com/your_username/your_project_name
+https://github.com/Godfaada/Bakery_Sales_Prediction
 
 ## Description
 
@@ -14,24 +14,16 @@ Regression
 
 ### Results Summary
 
--   **Best Model:** [Name of the best-performing model]
+-   **Best Model:** Convolutional Neural Network
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
-    -   **Bread** (1): [XX]%
-    -   **Rolls** (2): [XX]%
-    -   **Croissant** (3): [XX]%
-    -   **Confectionery** (4): [XX]%
-    -   **Cake** (5): [XX]%
-    -   **Seasonal Bread** (6): [XX]%
-
-## Documentation
-
-1.  [**Data Import and Preparation**](0_DataPreparation/)
-3.  [**Dataset Characteristics (Barcharts)**](1_DatasetCharacteristics/)
-4.  [**Baseline Model**](2_BaselineModel/)
-5.  [**Model Definition and Evaluation**](3_Model/)
-6.  [**Presentation**](4_Presentation/README.md)
+    -   **Bread** (1): 0.195878%
+    -   **Rolls** (2): 0.164488%
+    -   **Croissant** (3): 0.194171%
+    -   **Confectionery** (4): 0.215767%
+    -   **Cake** (5): 0.148250%
+    -   **Seasonal Bread** (6): 0.476020%
 
 ## Cover Image
 
-![](CoverImage/cover_image.png)
+![](cover-image.png)

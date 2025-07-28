@@ -17,13 +17,12 @@ Regression
 - **Best Model:** Convolutional Neural Network
 - **Evaluation Metric:** MAPE
 - **Result by Category** (Identifier):
-    -   **Bread** (1): 0.195878%
-    -   **Rolls** (2): 0.164488%
-    -   **Croissant** (3): 0.194171%
-    -   **Confectionery** (4): 0.215767%
-    -   **Cake** (5): 0.148250%
-    -   **Seasonal Bread** (6): 0.476020%
-
+    -   **Bread** (1): 0.197225%
+    -   **Rolls** (2): 0.163807%
+    -   **Croissant** (3): 0.192119%
+    -   **Confectionery** (4): 0.220140%
+    -   **Cake** (5): 0.149874%
+    -   **Seasonal Bread** (6): 0.473475%
 
 ## Documentation
 

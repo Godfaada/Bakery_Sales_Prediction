@@ -1,22 +1,29 @@
-# [Your Project Title Here]
+# Bakery Sales Prediction
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/Godfaada/Bakery_Sales_Prediction
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+We predict sales for six product categories of a bakery branch located somewhere in Kiel. The training data includes dates, Product categories, and sales numbers. Additional files include supplementary information that may be useful in building your models.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Regression
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Convolutional Neural Network
+- **Evaluation Metric:** MAPE
+- **Result by Category** (Identifier):
+    -   **Bread** (1): 0.195878%
+    -   **Rolls** (2): 0.164488%
+    -   **Croissant** (3): 0.194171%
+    -   **Confectionery** (4): 0.215767%
+    -   **Cake** (5): 0.148250%
+    -   **Seasonal Bread** (6): 0.476020%
+
 
 ## Documentation
 
@@ -28,4 +35,4 @@
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/cover-image.png)
